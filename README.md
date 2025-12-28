@@ -67,8 +67,7 @@ src/
 ## Design System
 
 ### Colors
-- **Primary Green**: `#10B981` - Trust, growth
-- **Accent Orange**: `#F97316` - Action, CTAs
+- **Primary Green**: `#009587` - Trust, growth
 - **Charcoal**: `#1F2937` - Text, depth
 - **Off-white**: `#FAFAF9` - Backgrounds
 
@@ -83,4 +82,3 @@ src/
 ## License
 
 © 2024 MarTechAdda. All rights reserved.
-
